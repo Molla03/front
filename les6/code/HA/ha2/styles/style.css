@@ -5,7 +5,7 @@ body{
 
 }
 
-header, nav, footer, .box {
+header, nav, footer, .box, aside {
     margin: 15px;
 }
 
@@ -32,6 +32,7 @@ nav{
     justify-content: space-around;
     display: flex;
     
+    
 }
 
 .box div {
@@ -49,11 +50,13 @@ nav{
 }
 
 article{
-    
+    width: 100%;
+    height: 50%;
     background-color: mediumslateblue;
 }
 section{
-    
+    width: 100%;
+    height: 50%;
     background-color: yellow;
 }
 
@@ -70,10 +73,12 @@ section{
 }
 
 aside{
-    
+    margin: 15px; 
 }
 
 .box2 {
+margin: 15px;
+
 
 }
 
