@@ -1,0 +1,30 @@
+* {
+margin: 0;
+padding: 0;
+
+}
+
+
+
+header {
+width: 50%;
+height: 200px;
+background-color: aquamarine;
+}
+
+nav {
+width: 50%;
+height: 50vh;
+background-color: coral;
+
+}
+
+main {
+    height: calc(100vh - 200px - 100px);
+}
+
+footer {
+    height: 100px;
+    background-color: aqua;
+
+}
